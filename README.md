@@ -1,3 +1,4 @@
 # ex1git
-its nisrine el mahdani
+its nisrineelmahdani
+genie info s2
 ## exercice1
